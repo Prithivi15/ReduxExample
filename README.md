@@ -1,2 +1,0 @@
-# ReduxExample
-Created with CodeSandbox
